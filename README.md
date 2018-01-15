@@ -8,5 +8,5 @@
 - Assign meaningful column names
 - Create a tidy data file after calculating the mean values of the desired features, grouped by subjects and activities.
 
-## The file tidyData.txt may be opened using the following command
+#### Please use the following command to open the file tidyData.txt
     read.csv("tidyData.txt", sep="")
