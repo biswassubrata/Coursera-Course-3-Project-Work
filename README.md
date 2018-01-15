@@ -7,3 +7,6 @@
 - Read and merge test data and training data
 - Assign meaningful column names
 - Create a tidy data file after calculating the mean values of the desired features, grouped by subjects and activities.
+
+## The file tidyData.txt may be opened using the following command
+    read.csv("tidyData.txt", sep="")
