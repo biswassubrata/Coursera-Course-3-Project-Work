@@ -6,4 +6,4 @@
 - Identify the required features
 - Read and merge test data and training data
 - Assign meaningful column names
-- Create a tidy data file
+- Create a tidy data file after calculating the mean values of the desired features, grouped by subjects and activities.
